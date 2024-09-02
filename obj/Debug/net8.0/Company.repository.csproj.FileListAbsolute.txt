@@ -1,0 +1,15 @@
+C:\Users\MAHMOUD-PC\source\repos\Company.repository\bin\Debug\net8.0\Company.repository.deps.json
+C:\Users\MAHMOUD-PC\source\repos\Company.repository\bin\Debug\net8.0\Company.repository.dll
+C:\Users\MAHMOUD-PC\source\repos\Company.repository\bin\Debug\net8.0\Company.repository.pdb
+C:\Users\MAHMOUD-PC\source\repos\Company.repository\bin\Debug\net8.0\Company.Data.dll
+C:\Users\MAHMOUD-PC\source\repos\Company.repository\bin\Debug\net8.0\Company.Data.pdb
+C:\Users\MAHMOUD-PC\source\repos\Company.repository\obj\Debug\net8.0\Company.repository.csproj.AssemblyReference.cache
+C:\Users\MAHMOUD-PC\source\repos\Company.repository\obj\Debug\net8.0\Company.repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHMOUD-PC\source\repos\Company.repository\obj\Debug\net8.0\Company.repository.AssemblyInfoInputs.cache
+C:\Users\MAHMOUD-PC\source\repos\Company.repository\obj\Debug\net8.0\Company.repository.AssemblyInfo.cs
+C:\Users\MAHMOUD-PC\source\repos\Company.repository\obj\Debug\net8.0\Company.repository.csproj.CoreCompileInputs.cache
+C:\Users\MAHMOUD-PC\source\repos\Company.repository\obj\Debug\net8.0\Company..C13D0CA8.Up2Date
+C:\Users\MAHMOUD-PC\source\repos\Company.repository\obj\Debug\net8.0\Company.repository.dll
+C:\Users\MAHMOUD-PC\source\repos\Company.repository\obj\Debug\net8.0\refint\Company.repository.dll
+C:\Users\MAHMOUD-PC\source\repos\Company.repository\obj\Debug\net8.0\Company.repository.pdb
+C:\Users\MAHMOUD-PC\source\repos\Company.repository\obj\Debug\net8.0\ref\Company.repository.dll
